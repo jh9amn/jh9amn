@@ -40,3 +40,8 @@ I'm Aman Kumar, a passionate content creator and a full-stack developer speciali
 <a href="#" rel="nofollow"><img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="max-width: 100%;"></a>
 <a href="#" rel="nofollow"><img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;"></a>
 </p>
+
+#
+
+### 📊 Github Stats:
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfa1c851bab60914972135283db5627bee0bb3cc733c3247cb7be50444ddbfaf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666f72726573746b6e696768742673686f775f69636f6e733d74727565267468656d653d67727576626f78"><img src="https://camo.githubusercontent.com/bfa1c851bab60914972135283db5627bee0bb3cc733c3247cb7be50444ddbfaf/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666f72726573746b6e696768742673686f775f69636f6e733d74727565267468656d653d67727576626f78" alt="Forrest's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=jhaman-09&amp;show_icons=true&amp;theme=gruvbox" style="max-width: 100%;"></a></p>
