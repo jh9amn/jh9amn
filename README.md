@@ -41,5 +41,5 @@ I'm Aman Kumar, a passionate content creator and a full-stack developer speciali
 <a href="#" rel="nofollow"><img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;"></a>
 </p> <br>
 
-### 📊 Github Stats:
+### 📊 Github Stats
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaman-09&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaman-09&layout=compact&theme=radical)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhaman-09&repo=github-readme-stats&show_icons=true&theme=radical)](https://github.com/jhaman-09/github-readme-stats)
