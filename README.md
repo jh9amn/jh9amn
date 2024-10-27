@@ -42,7 +42,4 @@ I'm Aman Kumar, a passionate content creator and a full-stack developer speciali
 </p> <br>
 
 ### 📊 Github Stats:
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaman-09&show_icons=true&theme=radical#gh-dark-mode-only)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaman-09&layout=compact&theme=radical#gh-dark-mode-only)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhaman-09&repo=github-readme-stats&show_icons=true&theme=great-gatsby#gh-dark-mode-only)](https://github.com/jhaman-09/github-readme-stats)
-
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaman-09&show_icons=true&theme=great-gatsby#gh-light-mode-only)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaman-09&layout=compact&theme=great-gatsby#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhaman-09&repo=github-readme-stats)](https://github.com/jhaman-09/github-readme-stats)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaman-09&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaman-09&layout=compact&theme=radical)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhaman-09&repo=github-readme-stats&show_icons=true&theme=radical)](https://github.com/jhaman-09/github-readme-stats)
