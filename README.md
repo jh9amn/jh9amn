@@ -1,4 +1,4 @@
-# 💁 Aman Kumar 
+# 💁 Hi I'm Aman 👋
 **`Digital Carftsman (Developer/Creator/Learner)`**
 
 I'm Aman Kumar, a passionate content creator and a full-stack developer specializing in the MERN stack, with a solid foundation in languages like JavaScript, Python, and SQL. I have experience building dynamic, user-focused applications and am skilled in tools like React, ExpressJS, and MongoDB. My work is supported by a strong command of version control and cloud platforms like Git, Vercel, and Firebase. I've been diving deeper into data structures and algorithms. Beyond development, I’m enthusiastic about exploring new technologies and enhancing my problem-solving skills. 
