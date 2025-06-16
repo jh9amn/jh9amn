@@ -54,7 +54,7 @@ I'm **Aman Kumar**, a passionate developer and content creator. I specialize in 
 
 ## 🌍 Let's Connect
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/jh9amn/)
 * 🧑‍💻 [Portfolio](https://gadget-garden.vercel.app/)
 * 💬 Ask me about **React, MERN Stack, Firebase, or DSA**
 
