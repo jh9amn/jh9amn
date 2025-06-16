@@ -46,4 +46,9 @@ I'm Aman Kumar, a passionate content creator and a full-stack developer speciali
 
 ### 📊 Github Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh9amn&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh9amn&layout=compact&theme=radical)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jh9amn&repo=github-readme-stats&show_icons=true&theme=radical)](https://github.com/jh9amn/github-readme-stats)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jh9amn&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jh9amn&layout=compact&theme=radical)
+
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=jh9amn&repo=github-readme-stats&theme=radical)](https://github.com/jh9amn/github-readme-stats)
+
