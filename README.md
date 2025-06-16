@@ -44,22 +44,11 @@ I'm **Aman Kumar**, a passionate developer and content creator. I specialize in 
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=jh9amn&show_icons=true&theme=radical" alt="Aman's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh9amn&layout=compact&theme=radical" alt="Top Languages"/>
-  <br>
-  <a href="https://github.com/jh9amn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jh9amn&repo=github-readme-stats&theme=radical" alt="Pinned Repo"/>
-  </a>
-</td>
-<td>
-  <img src="https://avatars.githubusercontent.com/u/112741451?v=4" width="250" style="border-radius:15px; margin-left: 20px;" alt="Aman's Profile Picture"/>
-</td>
-</tr>
-</table>
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jh9amn\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jh9amn\&layout=compact\&theme=radical)
+
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=jh9amn\&repo=github-readme-stats\&theme=radical)](https://github.com/jh9amn/github-readme-stats)
 
 ---
 
