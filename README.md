@@ -5,7 +5,7 @@ Updated GitHub readme
 
 **`Digital Craftsman (Developer | Creator | Learner)`**
 
-🎓 MCA Student at IIIT Ranchi | 💻 Full Stack Developer (MERN) | 🧠 DSA Enthusiast | 🚀 Tech Explorer
+🎓 MCA Student at IIT Patna & IIIT Ranchi | 💻 Full Stack Developer (MERN) | 🧠 DSA Enthusiast | 🚀 Tech Explorer
 
 ---
 
