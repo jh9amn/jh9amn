@@ -11,7 +11,7 @@ Updated GitHub readme
 
 I'm **Aman Kumar**, a passionate developer and content creator. I specialize in full-stack web development using the **MERN** stack, with a strong foundation in **JavaScript, Python, SQL**, and modern tools such as **React, Redux, Node.js, Express, and MongoDB**. I'm constantly exploring and learning new technologies to enhance my skills. I enjoy solving complex problems with clean, efficient code and sharing my learnings through projects and discussions.
 
-🌱 Currently diving deeper into  **Generative AI** **DSA** and **System Design**.
+🌱 Currently diving deeper into  **Generative AI**, **DSA** and **System Design**.
 
 🔭 I'm also passionate about building real-world applications, improving UX, and leveraging cloud platforms like **Firebase, Vercel, and GCP**.
 
