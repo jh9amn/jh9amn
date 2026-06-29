@@ -1,7 +1,7 @@
 Updated GitHub readme 
 
 
-# 💁 Hi, I'm Aman Kumar Jha 👋
+# 💁 Hi, I'm ![gitartwork](gitartwork.svg) 👋
 
 **`Digital Craftsman (Developer | Creator | Learner)`**
 
