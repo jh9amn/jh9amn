@@ -1,8 +1,8 @@
 Updated GitHub readme 
 
 
-# 💁 Hi, I'm 
-![gitartwork](gitartwork.svg)👋
+# 💁 Hi, I'm 👋
+![gitartwork](gitartwork.svg)
 
 **`Digital Craftsman (Developer | Creator | Learner)`**
 
